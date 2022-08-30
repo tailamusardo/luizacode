@@ -1,0 +1,2 @@
+Uma variável é um nome que se refere a um valor. Um comando de atribuição cria uma nova variável e lhe dá um valor.
+Variáveis são usadas para guardarmos valores que serão reutilizados mais tarde no programa.

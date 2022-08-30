@@ -1,0 +1,9 @@
+É uma linha que você escreve no código fonte, porém esse comentário não é interpretado na linguagem de programação.
+Ele serve para que você possa adicionar alguma informação a mais no código.
+* Não é necessário escrever para tudo, apenas naquilo que realmente é importante.
+Em um código auto explicativo, por exemplo, não há necessidade.
+Os comentários começam com o caractere cerquilha ‘#’ e estende até o final da linha.
+
+Comandos:
+    Ctrl + ;
+    Ctrl + K + C
