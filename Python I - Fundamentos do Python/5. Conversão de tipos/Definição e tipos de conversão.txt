@@ -2,7 +2,7 @@ A conversão de dados em Python, são o uso de funções definidas que convertem
 
 Existem dois tipos de conversão aqui:
 ● Implícita
-● Explícit
+● Explícita
 
 Conversão de tipos de dados
 int() | float() | complex() | str()
