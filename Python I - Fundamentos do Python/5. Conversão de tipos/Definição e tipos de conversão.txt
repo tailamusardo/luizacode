@@ -1,0 +1,8 @@
+A conversão de dados em Python, são o uso de funções definidas que convertem diretamente um tipo de dado em outro, o que é útil na programação diária e competitiva.
+
+Existem dois tipos de conversão aqui:
+● Implícita
+● Explícit
+
+Conversão de tipos de dados
+int() | float() | complex() | str()
