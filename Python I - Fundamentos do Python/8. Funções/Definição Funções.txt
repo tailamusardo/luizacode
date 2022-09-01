@@ -1,0 +1,6 @@
+# Uma função é uma sequência de comandos que executa uma tarefa, sua principal finalidade é nos ajudar a organizar programas em pedaços que correspondam a como imaginamos uma solução do problema.
+# No python, além de podermos criar funções, temos a opção de usar funções embutidas que estão disponíveis para nos ajudar a escrever nosso programa e economizar tempo, pois estaremos utilizando funções existentes e não precisaremos criar.
+# Na documentação oficial: https://docs.python.org/pt-br/3/library/functions.html ,temos a lista dessas funções, hoje vamos ver três tipos delas:
+# ● Map
+# ● Filter
+# ● Reduce
