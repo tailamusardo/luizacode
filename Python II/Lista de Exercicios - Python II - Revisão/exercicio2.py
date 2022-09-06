@@ -1,0 +1,1 @@
+# 2. Escreva uma classe “PessoaFisica” e herde Pessoa, crie um método exclusivo para a classe e acesse-o
